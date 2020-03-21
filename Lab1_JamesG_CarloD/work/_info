@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.1
+Eled_decoder
+Z0 w1540825003
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1
+Z4 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/led_decoder.vhd
+Z5 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/led_decoder.vhd
+l0
+L15
+VR=0[HI9NMfL:jg<>Wo7IY1
+!s100 6Oe:X=<0[;P9AOaFBamEj0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1540830190
+!i10b 1
+Z8 !s108 1540830190.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/led_decoder.vhd|
+Z10 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/led_decoder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehaviour
+R1
+R2
+DEx4 work 11 led_decoder 0 22 R=0[HI9NMfL:jg<>Wo7IY1
+l23
+L22
+VH44GZBhKNGf<O<Elo@z>G1
+!s100 P77^;lcQWJQ2W>]S34maS2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eseven_seg_decoder
+Z13 w1540829420
+R1
+R2
+R3
+Z14 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/seven_seg_decoder.vhd
+Z15 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/seven_seg_decoder.vhd
+l0
+L20
+VLdSgdPeNP2BhaO?Hb1bG]3
+!s100 Y2<GGX=X5]P9zh[gc0Gk^2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/seven_seg_decoder.vhd|
+Z17 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/seven_seg_decoder.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 17 seven_seg_decoder 0 22 LdSgdPeNP2BhaO?Hb1bG]3
+l28
+L27
+VPe?7FBU17Tl9[HNCMHa4Y3
+!s100 9F@ai3FLVl?2D?iM97b>f2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Etb_led_decoder
+Z18 w1540826591
+R1
+R2
+R3
+Z19 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_led_decoder.vhd
+Z20 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_led_decoder.vhd
+l0
+L11
+VD9@Tom5fnhn4I>@^C[8Om0
+!s100 b53c_cc8::M:VjRQS8Zbm1
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_led_decoder.vhd|
+Z22 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_led_decoder.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 14 tb_led_decoder 0 22 D9@Tom5fnhn4I>@^C[8Om0
+l28
+L14
+V[a:f0EdX@4TGLm6;bKYo50
+!s100 6Zhn`7`]A:g5bZbkJ;O;k2
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Etb_seven_seg_decoder
+Z23 w1540830185
+R1
+R2
+R3
+Z24 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_seven_seg_decoder.vhd
+Z25 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_seven_seg_decoder.vhd
+l0
+L11
+Vl5CW=T=nNzD;[KAoll`Y22
+!s100 4G[89_9R0BO<i7mBZW@@Z3
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_seven_seg_decoder.vhd|
+Z27 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1/tb_seven_seg_decoder.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 20 tb_seven_seg_decoder 0 22 l5CW=T=nNzD;[KAoll`Y22
+l28
+L14
+Vh<TE?h_m?oeA5H;9GEFHH1
+!s100 K@BJnP[cDWOQ:PbVe=8Zf1
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12

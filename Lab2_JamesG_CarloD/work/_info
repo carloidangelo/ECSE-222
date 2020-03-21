@@ -1,0 +1,256 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab1
+Eclock_divider
+Z0 w1541188343
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2
+Z5 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/clock_divider.vhd
+Z6 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/clock_divider.vhd
+l0
+L13
+VZS^<^9;eCbN38;b`U@mP>1
+!s100 >Q0hPBD014F>@OS8a`^]n1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1541188347
+!i10b 1
+Z9 !s108 1541188347.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/clock_divider.vhd|
+Z11 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/clock_divider.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehaviour
+R1
+R2
+R3
+DEx4 work 13 clock_divider 0 22 ZS^<^9;eCbN38;b`U@mP>1
+l25
+L23
+V?J9S3XRaeWLeGjCjhlTLC2
+!s100 mY7RN[13@E79eK93jaSA22
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter
+Z14 w1541180361
+R1
+R2
+R3
+R4
+Z15 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/counter.vhd
+Z16 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/counter.vhd
+l0
+L13
+VX5YCIL1@:d7@QI@e7?>OV3
+!s100 <M14Vc:1H^U2Ha42=G<^A2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/counter.vhd|
+Z18 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/counter.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 X5YCIL1@:d7@QI@e7?>OV3
+l27
+L25
+VLnQRTT0M6PinRj2Mjko_53
+!s100 fUALz=K:z_L5XQ8=C7A=_0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Escore_keeper
+Z19 w1541185252
+R1
+R2
+R3
+R4
+Z20 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/score_keeper.vhd
+Z21 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/score_keeper.vhd
+l0
+L12
+VR:DzM@LOXAIa26OZ6l1U:2
+!s100 df?mfYCjYdo@koeSkDYMI1
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/score_keeper.vhd|
+Z23 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/score_keeper.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 12 score_keeper 0 22 R:DzM@LOXAIa26OZ6l1U:2
+l25
+L24
+V>`Qoan^=ZDo@?ooGa_R<V3
+!s100 ]LD^>`j;S8B3BLcoGQjI82
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Etb_clock_divider
+Z24 w1541188309
+R1
+R2
+R3
+R4
+Z25 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_clock_divider.vhd
+Z26 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_clock_divider.vhd
+l0
+L13
+Vd_KDNcH1YX=KTmJIijAHe0
+!s100 8kgKDlfDE?::[gVTFCPlC2
+R7
+32
+Z27 !s110 1541188348
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_clock_divider.vhd|
+Z29 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_clock_divider.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+Z30 DEx4 work 16 tb_clock_divider 0 22 d_KDNcH1YX=KTmJIijAHe0
+l39
+L16
+Z31 V8WNlBfV1gSk[z@2KKGJHo1
+Z32 !s100 U5QOP:T@IHneLNTkWhbMT2
+R7
+32
+R27
+!i10b 1
+R9
+R28
+R29
+!i113 1
+R12
+R13
+Etb_counter
+Z33 w1541180618
+R1
+R2
+R3
+R4
+Z34 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_counter.vhd
+Z35 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_counter.vhd
+l0
+L13
+VOL3K[QchXY8PQa3Xh73i80
+!s100 LnZ4B`UOFX;n5^Fb:h[Af2
+R7
+32
+R8
+!i10b 1
+R9
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_counter.vhd|
+Z37 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_counter.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 10 tb_counter 0 22 OL3K[QchXY8PQa3Xh73i80
+l37
+L16
+VTmW`7`9m^WBS5zVZKEDR42
+!s100 Vb^]Rl9R6f2n>E`<m>5aP1
+R7
+32
+R8
+!i10b 1
+R9
+R36
+R37
+!i113 1
+R12
+R13
+Etb_score_keeper
+Z38 w1541185398
+R1
+R2
+R3
+R4
+Z39 8C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_score_keeper.vhd
+Z40 FC:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_score_keeper.vhd
+l0
+L13
+V6]zG_M_PlJzZSH_Laoz^o3
+!s100 ILDY4a_Y;G_NE_0C8^UDi3
+R7
+32
+R8
+!i10b 1
+R9
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_score_keeper.vhd|
+Z42 !s107 C:/Users/carlo/OneDrive/Documents/Mcgill3rdSem/DigitalLogic/Labs/Lab2/tb_score_keeper.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 15 tb_score_keeper 0 22 6]zG_M_PlJzZSH_Laoz^o3
+l45
+L16
+V921KU[>Lob?KK_RU13Y7n0
+!s100 >Yal<I<4YXY=F8l8FVGYm2
+R7
+32
+R8
+!i10b 1
+R9
+R41
+R42
+!i113 1
+R12
+R13
